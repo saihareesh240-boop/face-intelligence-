@@ -1,0 +1,11 @@
+{
+  "name": "Facetelligence",
+  "description": "Emotion-aware AI chatbot integrating real-time facial analysis and affective computing to deliver personalized, empathetic conversations.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
